@@ -1,4 +1,4 @@
-# Scanyo QR – Landing Page
+# Scanyo QR Website Landing 
 
 A super‑light static landing for GitHub Pages.
 
